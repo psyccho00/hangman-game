@@ -2,6 +2,8 @@
 
 Welcome to the **Hangman Game**, a classic word-guessing puzzle recreated in Python! This game challenges your vocabulary and logic as you attempt to guess a hidden word one letter at a time before the hangman is fully drawn.
 
+
+![](https://github.com/psyccho00/hangman-game/blob/main/hangman_game.png)
 ---
 
 ## 📁 Repository Structure
