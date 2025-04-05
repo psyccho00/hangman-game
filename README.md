@@ -2,8 +2,6 @@
 
 Welcome to the **Hangman Game**, a classic word-guessing puzzle recreated in Python! This game challenges your vocabulary and logic as you attempt to guess a hidden word one letter at a time before the hangman is fully drawn.
 
-![hangman banner](https://user-images.githubusercontent.com/674621/129486268-7e2f6dc3-882e-490a-8ec2-2fa60e2dd2e6.png)
-
 ---
 
 ## 📁 Repository Structure
@@ -54,7 +52,7 @@ This file contains:
 #### 🎨 Game Logo
 
 ```python
-logo = ''' 
+logo = r''' 
  _                                             
 | |                                            
 | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
@@ -62,8 +60,7 @@ logo = '''
 | | | | (_| | | | | (_| | | | | | | (_| | | | |
 |_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
                     __/ |                      
-                   |___/                       
-'''
+                   |___/    '''
 ```
 
 #### 💀 Hangman Stages
